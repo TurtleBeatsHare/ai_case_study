@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-On the main banner of their webpage<sup>1<sup>, Recursion Pharmaceuticals boldly claims to be "The Future of TechBio." The company's primary goal is to utilize vast amounts of data and machine learning to expidite drug discovery. 
+On the main banner of their webpage<sup>1</sup>, Recursion Pharmaceuticals boldly claims to be "The Future of TechBio." The company's primary goal is to utilize vast amounts of data and machine learning to expidite drug discovery. 
 
 In 2013, the company was founded by two granduate students and a professor in Salt Lake City, UT. In the decade since, the company has expanded to 500 employees spread across three international locations &mdash; Salt Lake City, Toronto, and Montreal.
 
