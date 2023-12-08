@@ -2,27 +2,27 @@
 
 ## Overview and Origin
 
-On the main banner of their webpage^1^, Recursion Pharmaceuticals boldly claims to be "The Future of TechBio." The company's primary goal is to utilize vast amounts of data and machine learning to expidite drug discovery. 
+On the main banner of their webpage<sup>1<sup>, Recursion Pharmaceuticals boldly claims to be "The Future of TechBio." The company's primary goal is to utilize vast amounts of data and machine learning to expidite drug discovery. 
 
 In 2013, the company was founded by two granduate students and a professor in Salt Lake City, UT. In the decade since, the company has expanded to 500 employees spread across three international locations &mdash; Salt Lake City, Toronto, and Montreal.
 
 The idea for the company came about when the founders &mdash; Chris Gibson, Blake Borgeson, and Dean Li &mdash; hypothesized that machine learning could help develop new drugs faster and cheaper. When reporting on an intial round of funding, Businesswire quotes the company's purpose to be:
 
->leveraging AI in biotech to remove human bias and make drugs cheaper, faster, and better than before.^2^
+>leveraging AI in biotech to remove human bias and make drugs cheaper, faster, and better than before<sup>2</sup>.
 
-Inital funding for the company came through 4 succesive venture capitalist rounds and totaled over $194M^2,3,4,5^. With the public offering in 2021, the company brought in over $500M more funding^6^. 
+Inital funding for the company came through 4 succesive venture capitalist rounds and totaled over $194M<sup>2,3,4,5</sup>. With the public offering in 2021, the company brought in over $500M more funding<sup>6</sup>. 
 
 ## Business Activities
 
 The company is trying to solve the slow pass of pharmaceutical drug discovery. Pharamceuticals are difficult to develop. They require large numbers of iterations clinical trials. Often promising cadidates are only ruled out after lengthy, and expensive trials that poise risk to trial candidates.
 
-Recursion attempts to steamline this process through the use of technology. Machine learning algorithms are used to predict active sites of molecular structures. Lab automation is utilized to speed up formulation of novel compounds. While AI data processing is used to predict trial results and mitigate those costs.^1^
+Recursion attempts to steamline this process through the use of technology. Machine learning algorithms are used to predict active sites of molecular structures. Lab automation is utilized to speed up formulation of novel compounds. While AI data processing is used to predict trial results and mitigate those costs<sup>1</sup>.
 
 ## Landscape
 
 The company is in the biopharmaceutical sector. The altruistic goal of this sector is to develop compounds that alleviate and/or cure health issues. The business goal of this sector is to minimize R&D costs for new products in order to drive overall profits.
 
-Top competitors for Recursion include^7^:
+Top competitors for Recursion include<sup>7</sup>:
 - Pepper Bio
 - Aitia
 - Terray Therapeutics
@@ -32,13 +32,13 @@ Top competitors for Recursion include^7^:
 
 Despite claiming 5 currently active pipelines, the company has yet to deliver a fully cleared product. Largely, the value of Recursion is still a promise.
 
-This has brought some ire from the business community that expects sales to recoop investment. In February of 2023 it was reported that stock prices were down greater than 80% from a peak just after the 2021 IPO^6^. 
+This has brought some ire from the business community that expects sales to recoop investment. In February of 2023 it was reported that stock prices were down greater than 80% from a peak just after the 2021 IPO<sup>6</sup>. 
 
-Nevertheless, the company reports dozens of collaborations with large biotech and health organizations^1^. This appears to be a sign that progress is being made. Perhaps even an accelerated drug discovery process is still lengthy.
+Nevertheless, the company reports dozens of collaborations with large biotech and health organizations<sup>1</sup>. This appears to be a sign that progress is being made. Perhaps even an accelerated drug discovery process is still lengthy.
 
 ## Recommendations
 
-Cancer Research UK states that new drugs typically take 10-15 years to pass clinical trials^8^. This metric is only once a drug has left the lab. The number of drugs in the pipeline after only ten years is encouraging. 
+Cancer Research UK states that new drugs typically take 10-15 years to pass clinical trials<sup>8</sup>. This metric is only once a drug has left the lab. The number of drugs in the pipeline after only ten years is encouraging. 
 
 That said, there does seem to be a bit of luck involved in the process. My reccomendation would be to stay the course and keep pushing the limits of the technology / biology interface. 
 
